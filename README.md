@@ -1,6 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/ParevMaxim" target="_blank">Maxim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I live in Russia. I am 14 years old. I am interested in machine learning</h3>
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2R5dGl3djZkY2c2ODdqcnYzY3hlYjRqM2kwb2I5czZmcWkxajJoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/>
+</div>
 <!--
 **ParevMaxim/ParevMaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
